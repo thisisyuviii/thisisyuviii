@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning python,java,c.
 - 💞️ I’m looking to collaborate on cloud computing.
-- 📫 How to reach me mail me-@2k23.psitaiml2312687@gmail.com
+- 📫 How to reach me , mail me-@2k23.psitaiml2312687@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
