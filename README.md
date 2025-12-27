@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yuvraj, a 3rd-year B.Tech student passionate about software development and problem-solving.<br>🌱 Currently exploring DSA, Web Development, and Machine Learning.<br>💡 Interested in building projects that solve real-world problems.<br>🚀 Practicing coding on LeetCode | HackerRank.<br>📫 Reach me at: [ys815198@gmail.com/linkdin@thisisyuviii]
+👋 Hi, I’m Yuvraj, a 3rd-year B.Tech student passionate about software development and problem-solving.<br>🌱 Currently exploring DSA, Web Development, and Machine Learning.<br>💡 Interested in building projects that solve real-world problems.<br>🚀 Practicing coding on LeetCode | HackerRank | GFG | Coding Ninjas.<br>📫 Reach me at: [ys815198@gmail.com/linkdin@thisisyuviii]
 
 
 ## 🌐 Socials:
