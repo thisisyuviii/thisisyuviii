@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yuvraj, a 3rd-year B.Tech student passionate about software development and problem-solving.<br>🌱 Currently exploring DSA, Generative AI, and Machine Learning.<br>💡 Interested in building projects that solve real-world problems.<br>🚀 Practicing coding on LeetCode | HackerRank | GFG | Coding Ninjas.<br>📫 Reach me at: [workwithyuvraj13@gmail.com/linkdin@thisisyuviii]
+👋 Hi, I’m Yuvraj, a 3rd-year B.Tech student passionate about software development and problem-solving.<br>🌱 Currently exploring DSA, Generative AI, and Machine Learning.<br>💡 Interested in building projects that solve real-world problems.<br>🚀 Practicing coding on LeetCode | HackerRank | GFG | Coding Ninjas.<br>📫 Reach me at: [workwithyuvraj13@gmail.com]linkdin@[(https://www.linkedin.com/in/yuvraj-singh-a8b0872a6/)]
 
 
 ## 🌐 Socials:
